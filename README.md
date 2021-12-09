@@ -63,25 +63,25 @@ Here are some ideas to get you started:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/niloy0) <a href="https://github.com/niloy0"></a> 
 
-> Installation Termux😊👇👇
+## Installation Termux😊👇👇
 
-> [×͜×] pkg update 
+### [×͜×] pkg update 
 
-> [×͜×] pkg upgrade 
+### [×͜×] pkg upgrade 
 
-> [×͜×] pkg install python 
+### [×͜×] pkg install python 
 
-> [×͜×] pkg install python1
+### [×͜×] pkg install python1
 
-> [×͜×] pkg install git 
+### [×͜×] pkg install git 
 
-> [×͜×] git clone https://github.com/niloy0/VAU-BANNER
+### [×͜×] git clone https://github.com/niloy0/VAU-BANNER
 
-> [×͜×] cd VAU-BANNER
+### [×͜×] cd VAU-BANNER
 
-> [×͜×] python2 style.py
+### [×͜×] python2 style.py
 
-> [×͜×] Your Name😊😊
+### [×͜×] Your Name😊😊
 
 <img src="https://github.com/niloy0/VAU-BANNER/blob/main/Screenshot_2021-12-09-15-28-32-1.png" width="640" title="Menu" alt="Menu">
 
