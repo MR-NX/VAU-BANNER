@@ -65,3 +65,12 @@ Here are some ideas to get you started:
 
 > Installation Termux😊👇👇
 
+> apt update 
+> apt upgrade 
+> pkg install python 
+> pkg install python1
+> pkg install git 
+> git clone https://github.com/niloy0/VAU-BANNER
+> cd VAU-BANNER
+> python2 style.py
+>
